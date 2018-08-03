@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/andrew-codes/gatsby-plugin-search.git"
+    "url": "git+github.com:killakam3084/gatsby-plugin-elasticlunr-search.git"
   },
   "keywords": [
     "gatsby",
@@ -21,9 +21,9 @@
   "author": "Andrew Smith <andrew@andrew.codes>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/andrew-codes/gatsby-plugin-search/issues"
+    "url": "https://github.com/killakam3084/gatsby-plugin-search/issues"
   },
-  "homepage": "https://github.com/andrew-codes/gatsby-plugin-search#readme",
+  "homepage": "https://github.com/killakam3084/gatsby-plugin-search#readme",
   "devDependencies": {
     "@babel/cli": "^7.0.0-beta.32",
     "@babel/core": "^7.0.0-beta.32",
