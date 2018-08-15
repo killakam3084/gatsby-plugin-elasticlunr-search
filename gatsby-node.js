@@ -105,7 +105,7 @@ exports.sourceNodes = async ({
     touchNode
   } = boundActionCreators;
   const existingNodes = getNodes().filter(n => n.internal.owner === `@iillmaticc/gatsby-plugin-elasticlunr-search`);
-  existingNodes.forEach(n => touchNode(n.id));
+  existingNodes.forEach(n => touchNode({ nodeId: n.id }));
 };
 
 exports.onCreateNode = ({
